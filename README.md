@@ -1,0 +1,1 @@
+# mapmagic-poi-assets
