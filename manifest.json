@@ -9,6 +9,13 @@
   "Taco Bell": "brands/fast-food/taco_bell.png",
   "Wendy's": "brands/fast-food/wendys.png",
 
+  "Domino's Pizza": "brands/pizzeria/dominos.png",
+  "Little Caesars": "brands/pizzeria/little_caesars.png",
+  "Mountain Mike's Pizza": "brands/pizzeria/mountain_mikes.png",
+  "Papa Johns": "brands/pizzeria/papa_johns.png",
+  "Pizza Hut": "brands/pizzeria/pizza_hut.png",
+  "Round Table Pizza": "brands/pizzeria/round_table.png",
+
   "Applebee's": "brands/restaurants/applebees.png",
   "Chili's": "brands/restaurants/chilis.png",
   "Denny's": "brands/restaurants/dennys.png",
