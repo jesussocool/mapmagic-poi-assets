@@ -2,13 +2,21 @@
   "Chick-fil-A": "brands/fast-food/chick_fil_a.png",
   "In-N-Out Burger": "brands/fast-food/in_n_out.png",
   "Jack in the Box": "brands/fast-food/jack_in_the_box.png",
+  "KFC": "brands/fast-food/kfc.png",
   "McDonald's": "brands/fast-food/mcdonalds.png",
+  "Panda Express": "brands/fast-food/panda_express.png",
+  "Popeyes Louisiana Kitchen": "brands/fast-food/popeyes.png",
   "Taco Bell": "brands/fast-food/taco_bell.png",
   "Wendy's": "brands/fast-food/wendys.png",
-  "KFC": "brands/fast-food/kfc.png",
-  "Popeyes Louisiana Kitchen": "brands/fast-food/popeyes.png",
-  "Panda Express": "brands/fast-food/panda_express.png",
-  "Costco Wholesale": "brands/retail/costco.png",
+
+  "Applebee's": "brands/restaurants/applebees.png",
+  "Chili's": "brands/restaurants/chilis.png",
+  "Denny's": "brands/restaurants/dennys.png",
+  "IHOP": "brands/restaurants/ihop.png",
+  "Olive Garden": "brands/restaurants/olive_garden.png",
+  "Texas Roadhouse": "brands/restaurants/texas_roadhouse.png",
+
+  "Costco": "brands/retail/costco.png",
   "Target": "brands/retail/target.png",
   "Walmart": "brands/retail/walmart.png"
 }
