@@ -25,5 +25,29 @@
 
   "Costco": "brands/retail/costco.png",
   "Target": "brands/retail/target.png",
-  "Walmart": "brands/retail/walmart.png"
+  "Walmart": "brands/retail/walmart.png",
+
+  "76": "brands/gas-stations/76.png",
+  "ARCO": "brands/gas-stations/arco.png",
+  "BP": "brands/gas-stations/bp.png",
+  "Buc-ee's": "brands/gas-stations/bucees.png",
+  "Chevron": "brands/gas-stations/chevron.png",
+  "Circle K": "brands/gas-stations/circle_k.png",
+  "Citgo": "brands/gas-stations/citgo.png",
+  "Exxon": "brands/gas-stations/exxon.png",
+  "Gulf": "brands/gas-stations/gulf.png",
+  "Love's": "brands/gas-stations/loves.png",
+  "Marathon": "brands/gas-stations/marathon.png",
+  "Maverik": "brands/gas-stations/maverik.png",
+  "Mobil": "brands/gas-stations/mobil.png",
+  "Phillips 66": "brands/gas-stations/phillips_66.png",
+  "Pilot": "brands/gas-stations/pilot_flying_j.png",
+  "Flying J": "brands/gas-stations/pilot_flying_j.png",
+  "QuikTrip": "brands/gas-stations/quiktrip.png",
+  "Shell": "brands/gas-stations/shell.png",
+  "Sinclair Oil": "brands/gas-stations/sinclair.png",
+  "Speedway": "brands/gas-stations/speedway.png",
+  "Sunoco": "brands/gas-stations/sunoco.png",
+  "Texaco": "brands/gas-stations/texaco.png",
+  "Valero": "brands/gas-stations/valero.png"
 }
